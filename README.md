@@ -1,4 +1,4 @@
-Image upload example
+Image upload example （Please check to the branch "use-s3-for-image..."）
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
